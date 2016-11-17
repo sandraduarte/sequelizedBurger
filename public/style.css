@@ -1,0 +1,22 @@
+body{
+		background-color: #221f1f;
+		background-image: url('./images/preview_hamburgers.jpg');
+		background-position: center center;
+	    background-repeat: no-repeat;
+	    background-attachment:fixed;
+	    background-size: cover;
+	    font-family: 'Questrial';
+	}
+	.container {
+		 background-color: rgba(255, 255, 255, 0.5);
+		 width: 800px;
+
+	}
+	
+	#burger-header-img {
+		height: 50px;
+	}
+
+	.glyphicon-menu-hamburger {
+  		font-size: npx;
+	}
